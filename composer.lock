@@ -30,7 +30,7 @@
                 "phpbench/phpbench": "^0.13",
                 "phpstan/phpstan-phpunit": "^0.11",
                 "phpstan/phpstan-shim": "^0.11",
-                "phpunit/phpunit": "^7.0"
+                "phpunit/phpunit": "^7.1"
             },
             "type": "library",
             "extra": {
