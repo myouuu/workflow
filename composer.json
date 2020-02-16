@@ -1,5 +1,5 @@
 {
-    "name": "workflow",
+    "name": "laravel/laravel",
     "type": "project",
     "description": "Test to try the github actions",
     "license": "MIT",
